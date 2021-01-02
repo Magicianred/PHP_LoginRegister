@@ -1,8 +1,8 @@
 # PHP Login Register
 
-PHP dilinde yazılmış simple login register sistemi.
+PHP dilinde yazılmış kullanıcı session kontrollü login register sistemi.
 
-Simple login register system written PHP.
+Simple login register system with user login session controller written in PHP.
 
 
 # Database
